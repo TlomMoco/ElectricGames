@@ -1,0 +1,19 @@
+{
+  "name": "electricgames",
+  "version": "1.0.0",
+  "description": "electricgames-exam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TlomMoco/ElectricGames.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TlomMoco/ElectricGames/issues"
+  },
+  "homepage": "https://github.com/TlomMoco/ElectricGames#readme"
+}
