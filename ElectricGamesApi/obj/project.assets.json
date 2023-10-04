@@ -1526,11 +1526,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\ElectricGamesApi.csproj",
+      "projectUniqueName": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\ElectricGamesApi.csproj",
       "projectName": "ElectricGamesApi",
-      "projectPath": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\ElectricGamesApi.csproj",
+      "projectPath": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\ElectricGamesApi.csproj",
       "packagesPath": "C:\\Users\\trymm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\obj\\",
+      "outputPath": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trymm\\AppData\\Roaming\\NuGet\\NuGet.Config"

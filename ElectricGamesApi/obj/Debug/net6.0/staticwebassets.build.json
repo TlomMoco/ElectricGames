@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "8CObGpzmvBEVJSsmdw0+doKdI4gupkH+SCH+AI043Y4=",
+  "Hash": "XLLKRvkycSPzkHQK2vlHCRMZQq/6jl7MSeN0iUvzC8U=",
   "Source": "ElectricGamesApi",
   "BasePath": "_content/ElectricGamesApi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ElectricGamesApi\\wwwroot",
       "Source": "ElectricGamesApi",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\blackOps1.jpg",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\blackOps1.jpg",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/blackOps1.jpg",
       "AssetKind": "All",
@@ -34,10 +34,10 @@
       "OriginalItemSpec": "wwwroot\\images\\blackOps1.jpg"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\favicon.ico",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\favicon.ico",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/favicon.ico",
       "AssetKind": "All",
@@ -51,10 +51,10 @@
       "OriginalItemSpec": "wwwroot\\images\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\frankWoods.jpg",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\frankWoods.jpg",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/frankWoods.jpg",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\images\\frankWoods.jpg"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\godOfWar.jpg",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\godOfWar.jpg",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/godOfWar.jpg",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\images\\godOfWar.jpg"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\halo3.jpg",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\halo3.jpg",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/halo3.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\images\\halo3.jpg"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\kratos.jpg",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\kratos.jpg",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/kratos.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\images\\kratos.jpg"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\mario.png",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\mario.png",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/mario.png",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mario.png"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\marioKart8.webp",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\marioKart8.webp",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/marioKart8.webp",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\images\\marioKart8.webp"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\MasterChief.jpg",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\MasterChief.jpg",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/MasterChief.jpg",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\images\\MasterChief.jpg"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\mw2.jpg",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\mw2.jpg",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/mw2.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\images\\mw2.jpg"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\NightHawks Diner.jpg",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\NightHawks Diner.jpg",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/NightHawks Diner.jpg",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\images\\NightHawks Diner.jpg"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\spiderMan.jpg",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\spiderMan.jpg",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/spiderMan.jpg",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\images\\spiderMan.jpg"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\spiderManman.jpg",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\spiderManman.jpg",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/spiderManman.jpg",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\images\\spiderManman.jpg"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\images\\trevor.jpg",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\images\\trevor.jpg",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "images/trevor.jpg",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\images\\trevor.jpg"
     },
     {
-      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\index.html",
       "SourceId": "ElectricGamesApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\wwwroot\\",
       "BasePath": "_content/ElectricGamesApi",
       "RelativePath": "index.html",
       "AssetKind": "All",

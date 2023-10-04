@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DnNoM/2LNgPC0TW/U0WeHbpeSqjFWW9cAQL6/U+1z6qjtZwxKWeP69VFqzjTe/ST+AI46Smr2HrwKXVaZDrthA==",
+  "dgSpecHash": "2DBWjQZSq1SZfu7pwEl4D9MHwAbiIkUQkt9EMFU2qrjvqi/Lksih5TNkgvL1GHySVDeGYEkvrfgBUAKQHYVL2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam – Kopi\\ElectricGamesApi\\ElectricGamesApi.csproj",
+  "projectFilePath": "C:\\Users\\trymm\\OneDrive\\Desktop\\Eksamen-WU\\ElectricGames-Exam-22\\ElectricGamesApi\\ElectricGamesApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\trymm\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\trymm\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.0\\microsoft.data.sqlite.core.7.0.0.nupkg.sha512",
